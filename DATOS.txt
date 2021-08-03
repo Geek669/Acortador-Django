@@ -1,0 +1,4 @@
+----- DATOS DEL ACORTADOR HECHO EN DJANGO---
+
+CORREO:  lil@lix.com
+contraseña: 123
